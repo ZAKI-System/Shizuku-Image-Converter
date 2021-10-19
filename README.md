@@ -38,6 +38,7 @@ exeができると思います。
 
 このアプリケーションは画像の変換のみを行います。
 Shizukuで表示するにはLuaスクリプトが必要です。
+[Shizuku/CT-3用画像表示スクリプト](https://gist.github.com/ZAKI-System/2042beeb03dee9f6166cea08e3638a76)
 
 生成されるファイルの仕様は予告なく変更することがあります。
 
